@@ -62,6 +62,10 @@ indra {
     }
 }
 
+indraSonatype {
+    this.useAlternateSonatypeOSSHost("s01")
+}
+
 testlogger {
     theme = com.adarshr.gradle.testlogger.theme.ThemeType.PLAIN_PARALLEL
 }
