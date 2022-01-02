@@ -1,7 +1,7 @@
 = lexica
 Mariell Hoversholm <mariell@mardroemmar.dev>
 v1.0, 2022-01-02
-:current-version: 0.1.0-SNAPSHOT
+:current-version: 0.1.0
 
 A library for common maps and mapping tasks.
 
